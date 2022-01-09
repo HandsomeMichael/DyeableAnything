@@ -1,0 +1,6 @@
+displayName = Dyeable Anything !
+author = Lasthue or Neko
+hideCode = false
+hideResources = false
+includeSource = true
+version = 1.1

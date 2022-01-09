@@ -1,0 +1,28 @@
+[ Dyeable Anything ! ] is a mod that allows you to dye projectiles and npcs
+
+
+This mod adds 3 item :
+
+"Dye Sprayer" 
+- can spray npcs and projectile with dye. 
+- can be bought from dye trader
+- consumes dye ( can be disabled in config )
+
+"Magical Dyer"
+- an accesory that can dye your projectile
+- can be bought from dye trader
+
+"Random Dye"
+- change a dye type each time
+- can be bought from dye trader
+
+Note : You can spray npcs and projectile with water gun to remove dye
+
+[ Changelog ]
+
+v1.1
+- added new secret
+- linked to github for fancy mod browser icon
+
+v.1.0
+- initial release
